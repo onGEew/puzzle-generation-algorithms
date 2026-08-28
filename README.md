@@ -80,7 +80,7 @@ These algorithms are integrated into a playable Phaser 3 game suite:
 
 ## 📚 Academic Context
 
-This work was completed as my Final Year Project at HKUST, supervised by [Supervisor Name]. It combines:
+This work was completed as my Final Year Project at HKUST, supervised by Shing-Yu Leung. It combines:
 - **Mathematics**: Graph theory, computational complexity, constraint satisfaction
 - **Computer Science**: DFS, BFS, bitmasking, backtracking, NP-complete subproblems
 - **Digital Media**: Interactive game design and visual aesthetics
