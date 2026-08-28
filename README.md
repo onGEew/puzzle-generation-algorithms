@@ -91,7 +91,7 @@ MIT License — feel free to use this code for your own projects, academic or co
 
 ## 🔗 Related
 
-- [[FYP Report Link (if available)]](https://hkustconnect-my.sharepoint.com/:w:/g/personal/lwwongai_connect_ust_hk/IQDFQVgRpqhBSbjn1VyANWW1ARxyWL6XaEbOH5KzTGJ9EGY?e=Vs1Ot2)
+- [[FYP Report Link]](https://hkustconnect-my.sharepoint.com/:w:/g/personal/lwwongai_connect_ust_hk/IQDFQVgRpqhBSbjn1VyANWW1ARxyWL6XaEbOH5KzTGJ9EGY?e=Vs1Ot2)
 
 ---
 
